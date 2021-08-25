@@ -1,1 +1,1 @@
-web: waitress-serve --listen=*:8000 wiki.wsgi:application
+web: waitress-serve --listen=*:5000 wiki.wsgi:application
